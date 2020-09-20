@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\morma\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\morma\\.nuget\\packages"
-    ]
-  }
-}
