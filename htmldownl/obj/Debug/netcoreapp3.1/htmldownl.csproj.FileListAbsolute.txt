@@ -1,0 +1,14 @@
+D:\work\htmldownl\htmldownl\bin\Debug\netcoreapp3.1\htmldownl.exe
+D:\work\htmldownl\htmldownl\bin\Debug\netcoreapp3.1\htmldownl.deps.json
+D:\work\htmldownl\htmldownl\bin\Debug\netcoreapp3.1\htmldownl.runtimeconfig.json
+D:\work\htmldownl\htmldownl\bin\Debug\netcoreapp3.1\htmldownl.runtimeconfig.dev.json
+D:\work\htmldownl\htmldownl\bin\Debug\netcoreapp3.1\htmldownl.dll
+D:\work\htmldownl\htmldownl\bin\Debug\netcoreapp3.1\htmldownl.pdb
+D:\work\htmldownl\htmldownl\obj\Debug\netcoreapp3.1\htmldownl.AssemblyInfoInputs.cache
+D:\work\htmldownl\htmldownl\obj\Debug\netcoreapp3.1\htmldownl.AssemblyInfo.cs
+D:\work\htmldownl\htmldownl\obj\Debug\netcoreapp3.1\htmldownl.dll
+D:\work\htmldownl\htmldownl\obj\Debug\netcoreapp3.1\htmldownl.pdb
+D:\work\htmldownl\htmldownl\obj\Debug\netcoreapp3.1\htmldownl.genruntimeconfig.cache
+D:\work\htmldownl\htmldownl\obj\Debug\netcoreapp3.1\htmldownl.csprojAssemblyReference.cache
+D:\work\htmldownl\htmldownl\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\work\htmldownl\htmldownl\obj\Debug\netcoreapp3.1\htmldownl.csproj.CopyComplete
